@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/rooflet/rooflet-core
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/rooflet/rooflet-ui
+	branch = main
