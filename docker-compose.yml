@@ -52,6 +52,7 @@ services:
     environment:
       - NODE_ENV=production
       - NEXT_TELEMETRY_DISABLED=1
+      - NEXT_PUBLIC_ROOFLET_BACKEND_URL=http://localhost:7001
     networks:
       - rooflet-network
 
